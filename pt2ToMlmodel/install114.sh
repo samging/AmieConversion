@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+uv venv --python 3.12 .venv
+source venv/bin/activate
+uv pip install torch torchvision coremltools

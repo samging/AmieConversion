@@ -1,0 +1,5 @@
+#importing models and mobile net
+torch
+torchvision
+coremltools
+tensorflow==1.14.0
