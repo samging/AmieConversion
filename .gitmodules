@@ -1,0 +1,3 @@
+[submodule "AOTI4onnx"]
+	path = AOTI4onnx
+	url = https://github.com/samging/AOTI4onnx.git
