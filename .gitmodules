@@ -1,3 +1,6 @@
 [submodule "AOTI4onnx"]
 	path = AOTI4onnx
 	url = https://github.com/samging/AOTI4onnx.git
+[submodule "pt2Topte"]
+	path = pt2Topte
+	url = https://github.com/samging/pt2Topte.git
